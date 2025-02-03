@@ -1,5 +1,5 @@
-a = int(input("INGRESE UN NUMERO")
-b = int(input("INGRESE OTRO NUMERO")
+a = int(input("INGRESE UN NUMERO"))
+b = int(input("INGRESE OTRO NUMERO"))
 sum=a+b
 re=a-b
 mu=a*b
